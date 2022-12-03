@@ -69,11 +69,18 @@ Ce lab est un exercice du cours "Débuter avec Git et Github" dispensé par Nico
 4. Faire un `git push`
 5. Aller voir le projet sur Github
 
-## Récupérer le code d'un remote repository existant
+## Récupérer le code d'un remote repository existant 
+### clone local
 
 1. Trouver un projet sur Github (celui-ci peut-être ?)
 2. Se placer dans le répertoire qui contient les projets
 3. Faire un `git clone` pour initialiser un nouveau repository à partir d'un projet existant
+
+### Fork dans votre compte
+1. Trouver un projet sur Github (celui-ci peut-être ?)
+2. utiliser le fork pour créer celui-ci dans votre compte
+2. Se placer dans le répertoire qui contient les projets
+3. Faire un `git clone` pour initialiser un nouveau repository à partir du projet que vous venez de Forker
 
 ## Activer les Github Pages
 
